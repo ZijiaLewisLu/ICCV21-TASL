@@ -2,9 +2,11 @@
 
 The official github for our ICCV 2021 paper [Weakly-Supervised Action Segmentation and Alignment via Transcript-Aware Union-of-Subspaces Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Weakly-Supervised_Action_Segmentation_and_Alignment_via_Transcript-Aware_Union-of-Subspaces_Learning_ICCV_2021_paper.pdf).
 
-The code and dataset will be released soon.
 
-!(main_graph)[resources/schematic.png]
+![main_graph](resources/schematic.png)
+
+*The code and dataset will be released soon.*
+
 
 ## Citation 
 Please cite us with
