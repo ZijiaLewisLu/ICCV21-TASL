@@ -4,6 +4,7 @@ The official github for our ICCV 2021 paper [Weakly-Supervised Action Segmentati
 
 The code and dataset will be released soon.
 
+!(main_graph)[resources/schematic.png]
 
 ## Citation 
 Please cite us with
