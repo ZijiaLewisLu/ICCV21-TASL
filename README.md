@@ -9,7 +9,7 @@ The official github for our ICCV 2021 paper [Weakly-Supervised Action Segmentati
 Please download data from links below and place them in a `dataset` folder.
 - [Breakfast](https://drive.google.com/file/d/1Af3EdYtlxjgBHpvANk60-d6nI6lIkWaf/view?usp=sharing)
 - [Hollywood](https://drive.google.com/file/d/13dwHn8JNBM045GzOZoh7KWDxRPUZ2MKL/view?usp=sharing)
-- [CrossTask](https://drive.google.com/file/d/1BsPo-hS9fduJYN-ZRZo1azabEjh-rtdT/view?usp=sharing)
+- [CrossTask](https://drive.google.com/file/d/13t0KI2cbEEFZ-98-LH5FkaUyak0P-r2y/view?usp=sharing)
 
 ## Training
 
